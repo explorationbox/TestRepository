@@ -1,0 +1,9 @@
+C:\Users\vbrankovic\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\vbrankovic\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.Resources.resources
+C:\Users\vbrankovic\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
+C:\Users\vbrankovic\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\vbrankovic\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\vbrankovic\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+C:\Users\vbrankovic\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\vbrankovic\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.xml
+C:\Users\vbrankovic\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
